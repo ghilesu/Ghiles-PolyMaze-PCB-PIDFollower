@@ -33,4 +33,4 @@ The hardware is fully documented in the KiCad project files, featuring:
 
 ## Author
 **Ghiles Mameri**  
-State Engineering Student in Automation & Control
+Engineering Student in Automation & Control
